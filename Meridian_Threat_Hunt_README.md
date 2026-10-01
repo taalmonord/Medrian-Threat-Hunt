@@ -1,6 +1,7 @@
 # Meridian Threat Hunt Walkthrough (Hunt 25)
 
 ## 🎯 Hunt Overview
+<img width="1491" height="1055" alt="ChatGPT Image Sep 30, 2026, 09_09_38 PM" src="https://github.com/user-attachments/assets/cb94c905-d468-441e-9830-19fd5bfd0867" />
 
 This threat hunt involved investigating a full-scale intrusion into the **MeridianCare** application environment. The objective was to reconstruct the adversary's activity from initial reconnaissance through credential access, SSH compromise, privilege escalation, persistence, command-and-control activity, automated remediation, and final forensic response.
 
